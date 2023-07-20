@@ -1,0 +1,15 @@
+D:\NYP_yaz\pow_sqrt\pow_sqrt\pow_sqrt\bin\Debug\net6.0\pow_sqrt.exe
+D:\NYP_yaz\pow_sqrt\pow_sqrt\pow_sqrt\bin\Debug\net6.0\pow_sqrt.deps.json
+D:\NYP_yaz\pow_sqrt\pow_sqrt\pow_sqrt\bin\Debug\net6.0\pow_sqrt.runtimeconfig.json
+D:\NYP_yaz\pow_sqrt\pow_sqrt\pow_sqrt\bin\Debug\net6.0\pow_sqrt.dll
+D:\NYP_yaz\pow_sqrt\pow_sqrt\pow_sqrt\bin\Debug\net6.0\pow_sqrt.pdb
+D:\NYP_yaz\pow_sqrt\pow_sqrt\pow_sqrt\obj\Debug\net6.0\pow_sqrt.csproj.AssemblyReference.cache
+D:\NYP_yaz\pow_sqrt\pow_sqrt\pow_sqrt\obj\Debug\net6.0\pow_sqrt.GeneratedMSBuildEditorConfig.editorconfig
+D:\NYP_yaz\pow_sqrt\pow_sqrt\pow_sqrt\obj\Debug\net6.0\pow_sqrt.AssemblyInfoInputs.cache
+D:\NYP_yaz\pow_sqrt\pow_sqrt\pow_sqrt\obj\Debug\net6.0\pow_sqrt.AssemblyInfo.cs
+D:\NYP_yaz\pow_sqrt\pow_sqrt\pow_sqrt\obj\Debug\net6.0\pow_sqrt.csproj.CoreCompileInputs.cache
+D:\NYP_yaz\pow_sqrt\pow_sqrt\pow_sqrt\obj\Debug\net6.0\pow_sqrt.dll
+D:\NYP_yaz\pow_sqrt\pow_sqrt\pow_sqrt\obj\Debug\net6.0\refint\pow_sqrt.dll
+D:\NYP_yaz\pow_sqrt\pow_sqrt\pow_sqrt\obj\Debug\net6.0\pow_sqrt.pdb
+D:\NYP_yaz\pow_sqrt\pow_sqrt\pow_sqrt\obj\Debug\net6.0\pow_sqrt.genruntimeconfig.cache
+D:\NYP_yaz\pow_sqrt\pow_sqrt\pow_sqrt\obj\Debug\net6.0\ref\pow_sqrt.dll
